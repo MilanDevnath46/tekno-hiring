@@ -1,0 +1,134 @@
+{
+    "UI developer":{
+        "meta": {
+            "dev_type" : "UI developer",
+            "core_skills" : "html/CSS",
+            "secondary_skills" : "JQuery"
+        },
+        "certificates":{
+            "courses_list":[
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                },
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                }
+            ],
+            "zip_link":""
+        },
+       
+        "assignments":[
+            {
+                "name": "Assignment 1",
+                "link": "",
+                "git_link": ""
+            }
+        ],
+        "video_interview":[
+            {
+                "link":""
+            }
+        ]
+    },
+    "JS Developer":{
+        "meta":{
+            "dev_type" : "JS Developer",
+            "core_skills" : "JS, Jquery",
+            "secondary_skills" : "css"
+        },
+        "certificates":{
+            "courses_list":[
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                },
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                }
+            ],
+            "zip_link":""
+        },
+       
+        "assignments":[
+            {
+                "name": "Assignment 1",
+                "link": "",
+                "git_link": ""
+            }
+        ],
+        "video_interview":[
+            {
+                "link":""
+            }
+        ]
+    },
+    "Java Developer":{
+        "meta":{
+            "dev_type" : "Java Developer",
+            "core_skills" : "Java, Jsp, Servlets",
+            "secondary_skills" : "Spring Boot"
+        },
+        "certificates":{
+            "courses_list":[
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                },
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                }
+            ],
+            "zip_link":""
+        },
+       
+        "assignments":[
+            {
+                "name": "Assignment 1",
+                "link": "",
+                "git_link": ""
+            }
+        ],
+        "video_interview":[
+            {
+                "link":""
+            }
+        ]
+    },
+    "React Developer":{
+        "meta":{
+            "dev_type" : "React Developer",
+            "core_skills" : "React js",
+            "secondary_skills" : "Reacr native"
+        },
+        "certificates":{
+            "courses_list":[
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                },
+                {
+                    "course_name":"cource name 1",
+                    "course_link":""
+                }
+            ],
+            "zip_link":""
+        },
+       
+        "assignments":[
+            {
+                "name": "Assignment 1",
+                "link": "",
+                "git_link": ""
+            }
+        ],
+        "video_interview":[
+            {
+                "link":""
+            }
+        ]
+    }
+}
