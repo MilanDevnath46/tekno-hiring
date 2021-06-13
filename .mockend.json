@@ -1,0 +1,9 @@
+{
+    "category" : [
+        {
+            "dev_type" : "string",
+            "core_skills" : "string",
+            "secondary_skills" : "string"
+        }
+    ]
+}
