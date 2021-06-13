@@ -1,22 +1,25 @@
+   
+{
     "category" : [
         {
             "dev_type" : "UI developer",
             "core_skills" : "html/CSS",
-            "secondary_skills" : "JQuery"
+            "secondary_skills" : "JQuery",
         },
         {
             "dev_type" : "JS Developer",
             "core_skills" : "JS, Jquery",
-            "secondary_skills" : "css"
+            "secondary_skills" : "css",
         },
         {
             "dev_type" : "Java Developer",
             "core_skills" : "Java, Jsp, Servlets",
-            "secondary_skills" : "Spring Boot"
+            "secondary_skills" : "Spring Boot",
         },
         {
             "dev_type" : "React Developer",
             "core_skills" : "React js",
-            "secondary_skills" : "Reacr native"
+            "secondary_skills" : "Reacr native",
         }
     ]
+}
