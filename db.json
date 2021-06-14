@@ -8,11 +8,11 @@
         "certificates":{
             "courses_list":[
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 UI developer",
                     "course_link":""
                 },
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 UI developer",
                     "course_link":""
                 }
             ],
@@ -41,11 +41,11 @@
         "certificates":{
             "courses_list":[
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 JS Developer",
                     "course_link":""
                 },
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 JS Developer",
                     "course_link":""
                 }
             ],
@@ -74,11 +74,11 @@
         "certificates":{
             "courses_list":[
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 Java Developer",
                     "course_link":""
                 },
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 Java Developer",
                     "course_link":""
                 }
             ],
@@ -107,11 +107,11 @@
         "certificates":{
             "courses_list":[
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 React Developer",
                     "course_link":""
                 },
                 {
-                    "course_name":"cource name 1",
+                    "course_name":"cource name 1 React Developer",
                     "course_link":""
                 }
             ],
